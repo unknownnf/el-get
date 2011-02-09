@@ -1,1 +1,1 @@
-(:name regex-tool :type git :url "git://github.com/jwiegley/regex-tool.git")
+(:name regex-tool :type git :url "git://github.com/emacsmirror/regex-tool.git")

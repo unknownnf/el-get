@@ -1,4 +1,4 @@
 (:name paredit 
-       :type http
-       :url "http://mumble.net/~campbell/emacs/paredit.el"
+       :type git
+       :url "git://github.com/emacsmirror/paredit.git"
        :features "paredit")

@@ -1,3 +1,4 @@
 (:name frame-cmds
-       :type emacswiki
+       :type git
+			 :url "git://github.com/emacsmirror/frame-cmds.git"
        :features "frame-cmds")

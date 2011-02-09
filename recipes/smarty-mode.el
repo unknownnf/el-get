@@ -1,1 +1,1 @@
-(:name smarty-mode :type http :url "http://lisp.morinie.fr/smarty/download/smarty-mode.el")
+(:name smarty-mode :type git :url "git://github.com/emacsmirror/smarty-mode.git")

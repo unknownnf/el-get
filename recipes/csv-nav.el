@@ -1,1 +1,1 @@
-(:name csv-nav :type emacswiki)
+(:name csv-nav :type git :url "git://github.com/emacsmirror/csv-nav.git")

@@ -1,1 +1,1 @@
-(:name ruby-mode :type elpa)
+(:name ruby-mode :type git :url "git://github.com/jwiegley/ruby-mode.git")

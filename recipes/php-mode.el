@@ -1,1 +1,1 @@
-(:name php-mode :type svn :url "http://php-mode.svn.sourceforge.net/svnroot/php-mode/trunk/php-mode-src")
+(:name php-mode :type git :url "git://github.com/emacsmirror/php-mode.git")

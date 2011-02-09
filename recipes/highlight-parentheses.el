@@ -1,4 +1,4 @@
 (:name highlight-parentheses
-       :type http
-       :url "http://nschum.de/src/emacs/highlight-parentheses/highlight-parentheses.el"
+       :type git
+       :url "git://github.com/emacsmirror/highlight-parentheses.git"
        :features highlight-parentheses)

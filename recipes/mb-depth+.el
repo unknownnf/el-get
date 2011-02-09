@@ -1,0 +1,1 @@
+(:name mb-depth+ :type git :url "git://github.com/emacsmirror/mb-depth-plus.git")

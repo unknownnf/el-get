@@ -4,5 +4,6 @@
        :features "yasnippet"
        :after (lambda ()
                 (yas/initialize)
-		(add-to-list 'yas/snippet-dirs (concat el-get-dir "yasnippet/snippets"))
-		(yas/reload-all)))
+                (setq yas/snippet-dirs
+                      (list (concat el-get-dir "yasnippet/snippets")))
+                (yas/reload-all)))

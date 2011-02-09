@@ -1,6 +1,6 @@
 (:name org-mode
        :type git
-       :url "git://repo.or.cz/org-mode.git"
+       :url "git://github.com/emacsmirror/org-mode.git"
        :info "doc"
        :build `,(mapcar
                  (lambda (target)

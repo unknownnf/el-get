@@ -1,1 +1,1 @@
-(:name json :type elpa)
+(:name json :type git :url "git://github.com/emacsmirror/json.git")

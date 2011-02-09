@@ -1,8 +1,7 @@
 (:name slime
-       :type cvs
-       :module "slime"
+       :type git
        :info "doc"
-       :url ":pserver:anonymous:anonymous@common-lisp.net:/project/slime/cvsroot"
+       :url "git://github.com/emacsmirror/slime.git"
        :load-path ("." "contrib")
        :compile (".")
        )

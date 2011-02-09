@@ -1,4 +1,4 @@
 (:name minimap
        :type git
-       :url "git://randomsample.de/minimap.git"
+       :url "git://github.com/emacsmirror/minimap.git"
        :features minimap)

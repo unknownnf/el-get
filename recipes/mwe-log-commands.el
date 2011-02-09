@@ -1,1 +1,4 @@
-(:name mwe-log-commands :type http :url "http://www.foldr.org/~michaelw/emacs/mwe-log-commands.el")
+(:name mwe-log-commands 
+	:type git 
+	:url "git://github.com/emacsmirror/mwe-log-commands.git"
+	:features mwe-log-commands)

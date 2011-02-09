@@ -1,1 +1,1 @@
-(:name erc :type elpa)
+(:name erc :type git :url "git://github.com/emacsmirror/erc.git")

@@ -1,3 +1,4 @@
 (:name iedit
-       :type emacswiki
+       :type git
+			 :url "git://github.com/emacsmirror/iedit.git"
        :features iedit)

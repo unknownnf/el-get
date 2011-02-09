@@ -1,1 +1,1 @@
-(:name js-comint :type http :url "http://downloads.sourceforge.net/js-comint-el/js-comint.el")
+(:name js-comint :type git :url "git://github.com/emacsmirror/js-comint.git")

@@ -1,6 +1,6 @@
 (:name markdown-mode
        :type git
-       :url "git://jblevins.org/git/markdown-mode.git"
+       :url "git://github.com/emacsmirror/markdown-mode.git"
        :features markdown-mode
        :after (lambda ()
 		(add-to-list 'auto-mode-alist

@@ -1,4 +1,4 @@
 (:name hl-sexp
-       :type http
-       :url "http://edward.oconnor.cx/elisp/hl-sexp.el"
+       :type git
+       :url "git://github.com/emacsmirror/hl-sexp.git"
        :features hl-sexp)

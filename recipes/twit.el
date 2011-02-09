@@ -1,1 +1,1 @@
-(:name twit :type emacswiki)
+(:name twit :type git :url "git://github.com/emacsmirror/twit.git")

@@ -1,4 +1,4 @@
 (:name quack
-       :type http
-       :url "http://www.neilvandyke.org/quack/quack.el"
+       :type git
+       :url "git://github.com/emacsmirror/quack.git"
        :features (quack))

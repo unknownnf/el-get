@@ -1,1 +1,1 @@
-(:name crontab-mode :type http :url "http://www.mahalito.net/~harley/elisp/crontab-mode.el")
+(:name crontab-mode :type git :url "git://github.com/emacsmirror/crontab-mode.git")

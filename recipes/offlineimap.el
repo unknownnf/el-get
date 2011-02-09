@@ -1,4 +1,4 @@
 (:name offlineimap
        :type git
-       :url "git://git.naquadah.org/offlineimap-el.git"
+       :url "git://github.com/emacsmirror/offlineimap.git"
        :features offlineimap)

@@ -1,4 +1,4 @@
 (:name fringe-helper
-       :type http
-       :url "http://nschum.de/src/emacs/fringe-helper/fringe-helper.el"
+       :type git
+       :url "git://github.com/emacsmirror/fringe-helper.git"
        :features fringe-helper)

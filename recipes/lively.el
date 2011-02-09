@@ -1,1 +1,1 @@
-(:name lively :type emacswiki)
+(:name lively :type git :url "git://github.com/emacsmirror/lively.git" :features lively)

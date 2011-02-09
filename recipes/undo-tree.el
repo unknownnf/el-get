@@ -1,3 +1,3 @@
 (:name undo-tree
-       :type http
-       :url "http://www.dr-qubit.org/undo-tree/undo-tree.el")
+       :type git
+       :url "git://github.com/emacsmirror/undo-tree.git")

@@ -1,8 +1,7 @@
 (:name session
-       :type http-tar
-       :options ("xzf")
+       :type git
        :load-path ("lisp")
-       :url "http://downloads.sourceforge.net/project/emacs-session/session/2.2a/session-2.2a.tar.gz"
+       :url "git://github.com/emacsmirror/session.git"
        :info "session management"
        :autoloads nil
        )

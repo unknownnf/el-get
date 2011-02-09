@@ -1,1 +1,1 @@
-(:name ac-dabbrev :type emacswiki)
+(:name ac-dabbrev :type git :url "git://github.com/emacsmirror/ac-dabbrev.git" :features ac-dabbrev)

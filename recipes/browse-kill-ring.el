@@ -1,3 +1,4 @@
 (:name browse-kill-ring
-       :type emacswiki
+       :type git
+			 :url "git://github.com/emacsmirror/browse-kill-ring.git"
        :features browse-kill-ring)
