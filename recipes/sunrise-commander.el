@@ -1,3 +1,4 @@
 (:name sunrise-commander
-       :type emacswiki
+       :type git
+       :url "https://github.com/emacsmirror/sunrise-commander.git"
        :features sunrise-commander)
